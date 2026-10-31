@@ -1,0 +1,18 @@
+{
+  "name": "insightfulpipe-agency-reporting",
+  "owner": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "metadata": {
+    "description": "28 free Claude skills for marketing reporting and agency work: cross-channel reports, dashboards, blended ROAS, KPI alerts, budget allocation, client onboarding, proposals, pricing and reviews, and marketing ops. Changes only after you confirm.",
+    "version": "2026.10.3107"
+  },
+  "plugins": [
+    {
+      "name": "insightfulpipe-agency-reporting",
+      "description": "28 free Claude skills for marketing reporting and agency work: cross-channel reports, dashboards, blended ROAS, KPI alerts, budget allocation, client onboarding, proposals, pricing and reviews, and marketing ops. Changes only after you confirm.",
+      "source": "./"
+    }
+  ]
+}

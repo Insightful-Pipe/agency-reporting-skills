@@ -1,0 +1,21 @@
+{
+  "name": "insightfulpipe-agency-reporting",
+  "displayName": "InsightfulPipe Agency and Reporting Skills",
+  "description": "28 free Claude skills for marketing reporting and agency work: cross-channel reports, dashboards, blended ROAS, KPI alerts, budget allocation, client onboarding, proposals, pricing and reviews, and marketing ops. Changes only after you confirm.",
+  "version": "2026.10.3107",
+  "author": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "homepage": "https://insightfulpipe.com/marketing-claude-skills/cross-platform",
+  "repository": "https://github.com/Insightful-Pipe/agency-reporting-skills",
+  "license": "MIT",
+  "keywords": [
+    "marketing-reporting",
+    "agency",
+    "client-reporting",
+    "marketing-ops",
+    "claude-skills",
+    "marketing"
+  ]
+}
